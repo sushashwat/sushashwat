@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently building full-stack apps with the **MERN stack** — React, Redux Toolkit, Node.js, Express, and MongoDB
-- 🌱 Currently sharpening **Data Structures & Algorithms** while preparing for placement interviews
+- 🌱 Currently sharpening **Data Structures & Algorithms**
 - 💼 Actively looking for **entry-level Full-Stack / Frontend Developer** roles
 - ⚡ I take projects from a blank repo through auth, APIs, database design, and **production deployment**
 - 📫 Reach me at **guptashashwat155@gmail.com**
