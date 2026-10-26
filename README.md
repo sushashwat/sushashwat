@@ -49,26 +49,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🎥 <a href="https://github.com/sushashwat/Youutubee">YouTube Clone</a></b><br/>
-      Full-stack video platform — feed, channels, search, JWT auth &amp; dark mode.<br/>
-      <code>React</code> · <code>Redux Toolkit</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code><br/>
-      🔗 <a href="https://youutubee.vercel.app/">Live Demo</a>
-    </td>
-    <td width="50%">
-      <b>🛒 <a href="https://github.com/sushashwat/Shoppy-Globe">ShoppyGlobe</a></b><br/>
-      Full-stack e-commerce app — cart management, JWT-protected routes, seeded DB.<br/>
-      <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>JWT</code><br/>
-      🔗 <a href="https://shoppy-globe-amber.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
